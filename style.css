@@ -1,0 +1,14 @@
+*{margin: 0;
+    padding: 0;}
+    h1{
+        margin-left: 525px;
+    }
+    #container{
+        border: 2px solid black; height: 350px; width: 620px;
+        position: relative;
+        left: 350px;
+    }
+    #container>img{height: 200px; width: 499px;}
+    .selector{ height: 140px; width: 620px; border: 2px solid red;  position: relative; left: 350px;}
+    .selector>img{height: 120px; width: 100px;
+    margin: 10px;}
